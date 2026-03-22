@@ -15,7 +15,7 @@ int main()
 	int L, C;
 	for(L = 0; L < 3; L++){		
 		for(C = 0; C < 4; C++){			
-			cin >> matriz[L][C]; //Posso inserir ou Deixer ser inserido automaticamente.
+			cin >> matriz[L][C]; //Posso inserir ou Deixar ser inserido automaticamente.
 	}
 	}
 	
