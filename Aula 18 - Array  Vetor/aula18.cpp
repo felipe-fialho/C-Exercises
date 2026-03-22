@@ -5,7 +5,7 @@
 using namespace std;
 
 int main(){
- 	SetConsoleOutputCP(CP_UTF8);//ALELUIA
+ 	SetConsoleOutputCP(CP_UTF8);
 	
 	// Array / Vetor;
 	// COMO DECLARAR = tipo nome [posicôes];  
